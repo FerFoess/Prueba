@@ -1,0 +1,56 @@
+p,li,hi{
+    color :red
+}
+
+p.texto1{
+    font-size: 20px;
+}
+
+hgroup h1{
+    font-size: 50px;
+}
+
+ul > li{
+    color: blue;
+}
+
+h1+h2 {
+    color: blue;
+}
+
+img~p{
+    text-align: justify;
+
+}
+
+li:nth-child(){
+    font-size: 30px;
+}
+
+a:hover{
+    color: purple;
+}
+
+a:link{
+    color:#ff0000;
+
+}
+
+a:visited{
+    color: #00ff00;
+}
+
+a:active{
+    color: #0000ff;
+}
+
+p::first-letter{
+    font-size: 100;
+    color: black;
+}
+
+p::first-line{
+    color: blue;
+    font-size: 40;
+}
+    
