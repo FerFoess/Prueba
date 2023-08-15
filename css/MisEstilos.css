@@ -17,11 +17,11 @@ body{
     text-align: center;
 }
 .agrupamiento{
-    background: #ffeaa7;
+    background: purple;
     width: 90%;
     padding: 15px;
     margin: 15px auto;
-    border: 2PX dashed black;
+    border: 2PX dashed blue;
 
 }
 .cabecera {
